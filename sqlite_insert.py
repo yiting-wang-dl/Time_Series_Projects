@@ -1,7 +1,6 @@
 """
 SEP 26, 2019
 Time Series Analysis HW # 1
-Jiayu Wang, Yiting Wang, Xin Zou
 """
 
 import logging
