@@ -11,6 +11,6 @@ Time Series Analysis Practice
 
     Task:
     
-  Build simulator of the player strategies. 
-  The stick to your guns strategy -- don't change doors with new information;
-  The other where the player plays with the door switching strategy;
+    Build simulator of the player strategies. 
+    The stick to your guns strategy -- don't change doors with new information;
+    The other where the player plays with the door switching strategy;
