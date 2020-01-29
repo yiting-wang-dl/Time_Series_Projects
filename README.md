@@ -16,5 +16,5 @@ Time Series Analysis Practice
     The other where the player plays with the door switching strategy;
 
 3. Lac Leman
-4. Yahoo
+4. Yahoo Tumblr Acquisition - Tumblr user growth prediction 
 5. Amcord 
